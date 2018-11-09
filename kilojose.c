@@ -1,7 +1,7 @@
 /***************************************************************************
  *                
                Kilojose, Jose Ortiz, <joseortizm.com>
- *
+ *                        MyVersion
  ***************************************************************************/
 /* Kilo -- A very simple editor in less than 1-kilo lines of code (as counted
  *         by "cloc"). Does not depend on libcurses, directly emits VT100
