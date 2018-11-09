@@ -1,6 +1,6 @@
 Linux: gcc kilojose.c -o kilojose
 
-Usage: kilojose # <filename>
+Usage: kilojose < filename >
 
 CTRL-S: Save
 CTRL-Q: Quit
